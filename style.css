@@ -1,0 +1,87 @@
+/* Updated CSS with premium styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+nav ul li a:hover {
+    color: #1a74b8;
+}
+
+section {
+    padding: 30px;
+    background-color: #fff;
+    margin: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #333;
+    font-size: 24px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Additional styling can be added here */
